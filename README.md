@@ -1,4 +1,4 @@
-# PROJECT NAME
+# Project Name
 MMED-1054 Midterm 
 
 # Usage
